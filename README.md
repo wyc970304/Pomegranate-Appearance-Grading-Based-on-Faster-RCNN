@@ -11,7 +11,7 @@ Sorry for the inconvenience.
 <br />
 <br />
 <br />
-**Readme** for this project: <br />
+Readme for this project: <br />
 <br />
 There are 2 main folders (or compressed files for backup) for this project. They are: <br />
 <br />
@@ -27,14 +27,14 @@ In path data/fruits, the folder test1_label & train1_label includes the .xml ann
 <br />
 (d) configs/faster_rcnn/faster_rcnn_r50_fpn_1x_coco.py----The configuration file for system model training & detection. If the system cannot work normally, check in this file about the configuration paths of each work files in your PC. <br />
 <br />
-**Noticed that: For all codes in 'mmdetection-master' should be run in the correct environment which supports mmdetection-master. The guideline of configure the environment can be seen in: <br />
+Noticed that: For all codes in 'mmdetection-master' should be run in the correct environment which supports mmdetection-master. The guideline of configure the environment can be seen in: <br />
 https://github.com/open-mmlab/mmdetection <br />
-(Noticed that it must be the environment of 'master' branch/version of mmdetection.)**<br />
+(Noticed that it must be the environment of 'master' branch/version of mmdetection.)<br />
 <br />
 <br />
 <br />
 <br />
-**2. compare**<br />
+2. compare<br />
 This is the work folder of codes for training & performance testing of two comparison models (i.e. faster rcnn+ResNet50 & faster rcnn+VGG16) in this project developed based on lab source codes. It has main parts includes:<br />
 <br />
 (a) folder 'logs_vgg' & 'logs_resnet'----The output path of saving trained comparison models.<br />
@@ -60,7 +60,7 @@ To build (i.e. train) and test a comparison model, try to follow this general fo
 5. Set 'Configuration of training' in train.py<br />
 6. Run train.py to start training a VGG/ResNet50 model<br />
 <br />
-**Testing the performance of a choosed model：**<br />
+Testing the performance of a choosed model：<br />
 1. Set configuration of the test (e.g. model path, category of model, confidence...) in frcnn.py<br />
 2. Run accuracy/get_ground_true.py----get the ground truth<br />
 3. Run accuracy/predict_all_for_calculate.py---get the detection result<br />
