@@ -1,8 +1,8 @@
 # Pomegranate-Appearance-Grading-Based-on-Faster-RCNN
 <br />
-Note: due to exceeding the usage limit of GitHub LFS, the latest version of supporting materials cannot be updated in this repository in time. Please download the materials from Google drive at this link:<br />
+__Note: due to exceeding the usage limit of GitHub LFS, the latest version of supporting materials cannot be updated in this repository in time. Please download the materials from Google drive at this link:__<br />
 https://drive.google.com/drive/folders/1HOJ0ZmreVresB6f0Y8jmILv3_hvjUurx?usp=sharing<br />
-**Sorry for the inconvenience.** <br />
+__Sorry for the inconvenience.__<br />
 <br />
 <br />
 <br />
