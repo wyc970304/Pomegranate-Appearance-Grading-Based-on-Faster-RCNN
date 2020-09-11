@@ -1,20 +1,20 @@
 # Pomegranate-Appearance-Grading-Based-on-Faster-RCNN
 
-**Note: due to exceeding the usage limit of GitHub LFS, the latest version of supporting materials cannot be updated in this repository in time. Please download the materials from Google drive at this link:**
+**Note: due to exceeding the usage limit of GitHub LFS, the latest version of supporting materials cannot be updated in this repository in time. Please download the materials from Google drive at this link:** <br />
 
-**Sorry for the inconvenience.**
-
-
+**Sorry for the inconvenience.** <br />
 
 
 
 
 
 
-**Readme** for this project:
 
-There are 2 main folders (or compressed files for backup) for this project. They are:
 
+**Readme** for this project: <br />
+<br />
+There are 2 main folders (or compressed files for backup) for this project. They are: <br />
+<br />
 1. mmdetection-master
 This is the work folder of the 'Pomegranate Appearance Quality Recognition System' in this project based on MMDetection. It has main parts includes:
 
