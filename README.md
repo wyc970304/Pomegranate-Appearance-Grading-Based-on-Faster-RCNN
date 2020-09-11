@@ -15,7 +15,7 @@ Sorry for the inconvenience.
 <br />
 There are 2 main folders (or compressed files for backup) for this project. They are: <br />
 <br />
-**1. mmdetection-master**<br />
+1. mmdetection-master<br />
 This is the work folder of the 'Pomegranate Appearance Quality Recognition System' in this project based on MMDetection. It has main parts includes: <br />
 <br />
 (a) GUI.py----The executable file (i.e. system GUI) of this system. To run this file normally, the environment which supports MMDetection-master must be configured. Before running, check if the paths of work configuration files in run() is correct for your PC. <br />
