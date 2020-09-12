@@ -54,7 +54,7 @@ ResNet50: Epoch85-Total_Loss0.1797-Val_Loss0.1788.pth<br />
 To build (i.e. train) and test a comparison model, try to follow this general folow:<br />
 (Enrironment: torch >= 1.2.0)<br />
 <br />
-**Training the model:**<br />
+Training the model:<br />
 1. Set path of Pomegranate image dataset in data_config.py
 *(*We have use data/fruits/images folder in 'mmdetection-master' as the path of Pomegranate image dataset.)*<br />
 2. Set corresponding classes in data_process/data_annotation.py----using .xml annotations to generate .txt annotations<br />
