@@ -4,7 +4,7 @@ Note: due to exceeding the usage limit of GitHub LFS, the latest version of supp
 <br />
 https://drive.google.com/drive/folders/1HOJ0ZmreVresB6f0Y8jmILv3_hvjUurx?usp=sharing<br />
 <br />
-Notice: Zip files in this repository are not the final version of supporting materials. You must download all main materials (i.e. 'compare', 'mmdetection-master', README) in google drive for sure.<br />
+Notice: Any .zip files in this repository are not the final version of supporting materials. You must download all main materials (i.e. 'compare', 'mmdetection-master', README) in google drive for sure.<br />
 <br />
 Sorry for the inconvenience.
 <br />
