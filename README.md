@@ -55,10 +55,10 @@ To build (i.e. train) and test a comparison model, try to follow this general fo
 (Enrironment: torch >= 1.2.0)<br />
 <br />
 Training the model:<br />
-1. Set path of Pomegranate image dataset in data_config.py
-*(*We have use data/fruits/images folder in 'mmdetection-master' as the path of Pomegranate image dataset.)*<br />
+1. Set path of Pomegranate image dataset in data_config.py<br />
+(*We have use data/fruits/images folder in 'mmdetection-master' as the path of Pomegranate image dataset.)<br />
 2. Set corresponding classes in data_process/data_annotation.py----using .xml annotations to generate .txt annotations<br />
-*(*We have use data/fruits/test1_label & data/fruits/train1_label folders in 'mmdetection-master' as the path of .xml annotations.)*<br />
+(*We have use data/fruits/test1_label & data/fruits/train1_label folders in 'mmdetection-master' as the path of .xml annotations.)<br />
 3. Set the classes you use in model_data/voc_classes.txt (i.e. G1,G2,G3)<br />
 4. Sey NUM_CLASSES in train.py to the number of positive classes (i.e. 3 grades)<br />
 5. Set 'Configuration of training' in train.py<br />
